@@ -12,6 +12,12 @@
     margin: 10px;
 }
 
+.time {
+    font-size: 4em;
+    font-weight: 800;
+    color: rgb(63, 60, 60);
+}
+
 .container {
     width: 700px;
     display: flex;
